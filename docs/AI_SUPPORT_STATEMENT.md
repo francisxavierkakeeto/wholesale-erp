@@ -64,4 +64,4 @@ manual runs of every menu **[YOU: confirm what you actually ran]**.
 I used generative AI as described above. I understand the design and code I am submitting and can explain it.
 The reflection paper is my own writing.
 
-Signature / date: 11/0/2026
+Signature / date: 11/10/2026
