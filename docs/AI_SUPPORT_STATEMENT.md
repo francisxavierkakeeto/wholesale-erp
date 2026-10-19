@@ -6,7 +6,7 @@
 ## 1. AI tools used
 - Claude (Anthropic), via claude.ai: project planning, technology choice, database schema design, Java code generation,
   test scripting, documentation drafts.
-- Other tools / web searches: **[YOU: list any, e.g. MySQL/MariaDB documentation, XAMPP, JDBC tutorials, or "none"]**
+- Other tools / web searches: **MySQL/MariaDB documentation, XAMPP, JDBC tutorials,**
 
 ## 2. What AI was used for
 | Area | How AI was used |
