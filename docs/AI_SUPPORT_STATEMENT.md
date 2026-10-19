@@ -27,7 +27,7 @@
 | 3 | "Let's use java then. And the business should be a general goods wholesaler" | Start the build | Full project generated: schema, Java code, self-test, docs |
 | 4 | "How do I test run it?" | Run the project | Step-by-step build and run instructions |
 | 5 | "Give me an er diagram of my system" | Documentation | `docs/er_diagram.png/.svg` (generated from the schema with Graphviz) |
-| 6 | "I have failed to test and run this. What could be the problem?" | Debug my setup | Windows scripts `build.bat` / `run.bat` added; asked where it failed |
+| 6 | "I have failed to test and run this. What could be the problem?" | Debug my setup | Windows scripts `build.bat` / `run.bat` added; asked where it failed, I had an sqlite file which required more than xampp to run. |
 | 7 | "I would like to change the Sqlite file to sql. And make the necessary adjustments with the rest of my design for compatibility" (chose MySQL/MariaDB when asked) | Replace the database | Schema rewritten for MySQL/MariaDB, Java database layer changed, tested on a real MariaDB server |** | | |
 
 Internet searches (if any): **[ How do I run .sql files, www.google.com, had an sqlite file instead of sql. could not run in my xampp]**
